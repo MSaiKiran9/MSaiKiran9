@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSaiKiran9
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ... Front End Web Development
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... All kind of Open-Source Projects
 - 📫 How to reach me ... mail me at @msaikiran9848250763@gmail.com
 
