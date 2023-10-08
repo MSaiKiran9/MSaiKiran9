@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and learn things by contributing to Open-Source Projects
 - 📫 How to reach me    <ul><li><a href="mailto:msaikiran9848250763@gmail.com"><img src="https://th.bing.com/th/id/OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW?pid=ImgDet&rs=1" style="width:3rem" alt="mail link"></a></li><li> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](https://www.linkedin.com/in/MSaiKiran9/)</li></ul>
 
-- <a href="https://msaikiran9.github.io/Portfolio" style="color:red"><img src="https://github.com/MSaiKiran9/MSaiKiran9/assets/116418856/0eecb25b-8667-49d7-aac0-bd8aa470284d" alt="portfolio-link" style="width:50px"></a>
+- <a href="https://msaikiran9.github.io/Portfolio">Portfolio link 📚</a>
 
 - ![](https://komarev.com/ghpvc/?username=MSaiKiran9&color=blue)
 
