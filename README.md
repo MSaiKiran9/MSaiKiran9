@@ -2,8 +2,10 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate and learn things by contributing to Open-Source Projects
-- 📫 How to reach me ... mail me at @msaikiran9848250763@gmail.com
-- ![](https://komarev.com/ghpvc/?username=MSaiKiran9&color=green)
+- 📫 How to reach me    <ul><li><a href="mailto:msaikiran9848250763@gmail.com"><img src="https://th.bing.com/th/id/OIP.IpB5yPUkCFHOzlmM-O7ncAHaFW?pid=ImgDet&rs=1" style="width:3rem"></a></li><li> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](https://www.linkedin.com/in/MSaiKiran9/)</li></ul>
+
+- ![](https://komarev.com/ghpvc/?username=MSaiKiran9&color=blue)
+
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSaiKiran9)](https://github.com/MSaiKiran9/github-readme-stats)
 
 <!---
