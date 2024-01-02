@@ -8,7 +8,7 @@
 
 - ![](https://komarev.com/ghpvc/?username=MSaiKiran9&color=blue)
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSaiKiran9)](https://github.com/MSaiKiran9/github-readme-stats)
+- [![](https://github-readme-stats.vercel.app/api?username=MSaiKiran9)](https://github.com/MSaiKiran9/github-readme-stats)
 
 <!---
 MSaiKiran9/MSaiKiran9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
